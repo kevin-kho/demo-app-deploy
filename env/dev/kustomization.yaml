@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/kevin-kho/demo-app
-  newTag: 1b56ecb34cde4e11b6d7f8b0ce551a0606d68d58
+  newTag: ecfddc194cceb969fab758f3ef0b26c42d0b9b2b
